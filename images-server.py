@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+Place this script at root folder of your media collection.
+The folder either contains sub folders, or contains number of images
+It scans and displays all images in folder
+"""
+
 import os
 import http.server
 import socketserver
